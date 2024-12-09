@@ -1,16 +1,5 @@
-# pks10
+#Практическая работа №11
+##Рабкин Артур ЭФБО-05-22
+###Работа поиска по названия и описанию товара
+https://github.com/user-attachments/assets/b2ed4847-2162-4b10-8ba3-9f9b2c6f6a04
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
